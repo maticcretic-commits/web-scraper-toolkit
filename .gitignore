@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+output/
+images/
+*.csv
+!tests/fixtures/*.csv
+.pytest_cache/
